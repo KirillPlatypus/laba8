@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eHSyYXE1d//uYKzOAJToIZwEr6hF7Ws4YFtr3iN9twJWp3SOrHaignX8uUaizdp1tNMP0kU0Vcf9plARwQP4bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Кирилл\\Desktop\\Программирование\\Университет\\Основное\\Программирование\\Лабы\\Лаба 8\\Laba8\\Laba8\\Laba8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
